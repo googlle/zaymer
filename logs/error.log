@@ -1,0 +1,1 @@
+[Sun Jan 29 01:56:21.827229 2017] [core:error] [pid 2248:tid 1748] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:62090] AH00127: Cannot map GET /... HTTP/1.1 to file, referer: http://yii/comment
